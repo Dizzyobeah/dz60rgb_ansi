@@ -15,8 +15,8 @@ More information can be found in the QMK docs: <https://docs.qmk.fm>
 
 Current layout as per below:
 
-![alt text](https://github.com/Dizzyobeah/dizzy-dz60rgb/blob/master/layer-0.png)
+![alt text](https://github.com/Dizzyobeah/dz60rgb_ansi/blob/master/layer-0.png)
 
-![alt text](https://github.com/Dizzyobeah/dizzy-dz60rgb/blob/master/layer-1.png)
+![alt text](https://github.com/Dizzyobeah/dz60rgb_ansi/blob/master/layer-1.png)
 
-![alt text](https://github.com/Dizzyobeah/dizzy-dz60rgb/blob/master/layer-2.png)
+![alt text](https://github.com/Dizzyobeah/dz60rgb_ansi/blob/master/layer-2.png)
